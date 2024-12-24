@@ -1,1 +1,3 @@
 # ProjectAKA-TimeComplexity
+
+This project compares the efficiency of iterative and recursive implementations of the Merge Sort algorithm for sorting restaurant ratings in descending order, as commonly used in online food delivery platforms. By analyzing the running times for datasets of varying sizes (5,000 to 100,000 ratings), the project evaluates the trade-offs between simplicity and performance. It provides insights into the scalability and practical considerations of sorting algorithms in real-world applications. The repository includes the full implementation, detailed analysis, and performance graphs to illustrate the findings.
