@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734949895 source:c:\users\moreno\documents\tel-u\semester 3\data structure\projectaka\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<chrono>
+	<iomanip>
+
+1734944223 source:c:\users\moreno\documents\tel-u\semester 3\data structure\projectaka\backup.cpp
+
